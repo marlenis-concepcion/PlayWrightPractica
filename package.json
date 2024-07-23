@@ -1,0 +1,25 @@
+{
+  "name": "playwrightpractica",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:e2e": "npx playwright test tests/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marlenis-concepcion/PlayWrightPractica.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marlenis-concepcion/PlayWrightPractica/issues"
+  },
+  "homepage": "https://github.com/marlenis-concepcion/PlayWrightPractica#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.45.2",
+    "@types/node": "^20.14.11",
+    "eslint-config-prettier": "^9.1.0"
+  }
+}
